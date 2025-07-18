@@ -1,4 +1,4 @@
-package com.afriasdev.dds.dds;
+package com.afriasdev.dds;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
